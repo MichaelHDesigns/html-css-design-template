@@ -315,6 +315,7 @@ a:hover, a:link, a:visited, a:active {
 
 /* footer */
 .social {
+  margin-top: 15%;	
   display: flex;
   justify-content: space-around;
 }
