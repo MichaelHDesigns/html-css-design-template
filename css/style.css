@@ -139,6 +139,7 @@ a:hover, a:link, a:visited, a:active {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  text aligin; center 
 }
 
 #headerwrap h1 {
