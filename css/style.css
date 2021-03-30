@@ -28,7 +28,7 @@
 
 /*----------- general------------- */ 
 body {
-  background-color: #f2f2f2;
+  background-color: gray;
   font-family: "Lato", Arial, Sans-serif;
   font-weight: 300;
   font-size: 16px;
@@ -316,7 +316,7 @@ a:hover, a:link, a:visited, a:active {
 /* footer */
 .social {
   margin-top: 15%;
-  margin-right: 15%	
+  margin-right: 15%;	
   display: flex;
   justify-content: space-around;
 }
