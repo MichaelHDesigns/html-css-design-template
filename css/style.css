@@ -131,6 +131,7 @@ a:hover, a:link, a:visited, a:active {
 	width: 100%;
   background-size: 100%;
   background-size: cover;
+  text-align: center;
   
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -145,7 +146,7 @@ a:hover, a:link, a:visited, a:active {
 	color: 2c3e50;
 	font-weight: 600;
 	margin: 0px;
-	text-align: left;
+	text-align: center;
 }
 
 #headerwrap h3 {
@@ -153,7 +154,7 @@ a:hover, a:link, a:visited, a:active {
 	color: 2c3e50;
 	font-weight: 600;
 	margin: 0px;
-	text-align: left;
+	text-align: center;
 }
 
 
